@@ -1,0 +1,69 @@
+race_id,year,round,name,date,time,raceName
+1,2022,1,Bahrain Grand Prix,2022-03-20,15:00:00Z,Bahrain Grand Prix
+2,2022,2,Saudi Arabian Grand Prix,2022-03-27,17:00:00Z,Saudi Arabian Grand Prix
+3,2022,3,Australian Grand Prix,2022-04-10,05:00:00Z,Australian Grand Prix
+4,2022,4,Emilia Romagna Grand Prix,2022-04-24,13:00:00Z,Emilia Romagna Grand Prix
+5,2022,5,Miami Grand Prix,2022-05-08,19:30:00Z,Miami Grand Prix
+6,2022,6,Spanish Grand Prix,2022-05-22,13:00:00Z,Spanish Grand Prix
+7,2022,7,Monaco Grand Prix,2022-05-29,13:00:00Z,Monaco Grand Prix
+8,2022,8,Azerbaijan Grand Prix,2022-06-12,11:00:00Z,Azerbaijan Grand Prix
+9,2022,9,Canadian Grand Prix,2022-06-19,18:00:00Z,Canadian Grand Prix
+10,2022,10,British Grand Prix,2022-07-03,14:00:00Z,British Grand Prix
+11,2022,11,Austrian Grand Prix,2022-07-10,13:00:00Z,Austrian Grand Prix
+12,2022,12,French Grand Prix,2022-07-24,13:00:00Z,French Grand Prix
+13,2022,13,Hungarian Grand Prix,2022-07-31,13:00:00Z,Hungarian Grand Prix
+14,2022,14,Belgian Grand Prix,2022-08-28,13:00:00Z,Belgian Grand Prix
+15,2022,15,Dutch Grand Prix,2022-09-04,13:00:00Z,Dutch Grand Prix
+16,2022,16,Italian Grand Prix,2022-09-11,13:00:00Z,Italian Grand Prix
+17,2022,17,Singapore Grand Prix,2022-10-02,12:00:00Z,Singapore Grand Prix
+18,2022,18,Japanese Grand Prix,2022-10-09,05:00:00Z,Japanese Grand Prix
+19,2022,19,United States Grand Prix,2022-10-23,19:00:00Z,United States Grand Prix
+20,2022,20,Mexico City Grand Prix,2022-10-30,20:00:00Z,Mexico City Grand Prix
+21,2022,21,São Paulo Grand Prix,2022-11-13,18:00:00Z,São Paulo Grand Prix
+22,2022,22,Abu Dhabi Grand Prix,2022-11-20,13:00:00Z,Abu Dhabi Grand Prix
+23,2023,1,Bahrain Grand Prix,2023-03-05,15:00:00Z,Bahrain Grand Prix
+24,2023,2,Saudi Arabian Grand Prix,2023-03-19,17:00:00Z,Saudi Arabian Grand Prix
+25,2023,3,Australian Grand Prix,2023-04-02,05:00:00Z,Australian Grand Prix
+26,2023,4,Azerbaijan Grand Prix,2023-04-30,11:00:00Z,Azerbaijan Grand Prix
+27,2023,5,Miami Grand Prix,2023-05-07,19:30:00Z,Miami Grand Prix
+28,2023,6,Monaco Grand Prix,2023-05-28,13:00:00Z,Monaco Grand Prix
+29,2023,7,Spanish Grand Prix,2023-06-04,13:00:00Z,Spanish Grand Prix
+30,2023,8,Canadian Grand Prix,2023-06-18,18:00:00Z,Canadian Grand Prix
+31,2023,9,Austrian Grand Prix,2023-07-02,13:00:00Z,Austrian Grand Prix
+32,2023,10,British Grand Prix,2023-07-09,14:00:00Z,British Grand Prix
+33,2023,11,Hungarian Grand Prix,2023-07-23,13:00:00Z,Hungarian Grand Prix
+34,2023,12,Belgian Grand Prix,2023-07-30,13:00:00Z,Belgian Grand Prix
+35,2023,13,Dutch Grand Prix,2023-08-27,13:00:00Z,Dutch Grand Prix
+36,2023,14,Italian Grand Prix,2023-09-03,13:00:00Z,Italian Grand Prix
+37,2023,15,Singapore Grand Prix,2023-09-17,12:00:00Z,Singapore Grand Prix
+38,2023,16,Japanese Grand Prix,2023-09-24,05:00:00Z,Japanese Grand Prix
+39,2023,17,Qatar Grand Prix,2023-10-08,17:00:00Z,Qatar Grand Prix
+40,2023,18,United States Grand Prix,2023-10-22,19:00:00Z,United States Grand Prix
+41,2023,19,Mexico City Grand Prix,2023-10-29,20:00:00Z,Mexico City Grand Prix
+42,2023,20,São Paulo Grand Prix,2023-11-05,17:00:00Z,São Paulo Grand Prix
+43,2023,21,Las Vegas Grand Prix,2023-11-19,06:00:00Z,Las Vegas Grand Prix
+44,2023,22,Abu Dhabi Grand Prix,2023-11-26,13:00:00Z,Abu Dhabi Grand Prix
+45,2024,1,Bahrain Grand Prix,2024-03-02,15:00:00Z,Bahrain Grand Prix
+46,2024,2,Saudi Arabian Grand Prix,2024-03-09,17:00:00Z,Saudi Arabian Grand Prix
+47,2024,3,Australian Grand Prix,2024-03-24,04:00:00Z,Australian Grand Prix
+48,2024,4,Japanese Grand Prix,2024-04-07,05:00:00Z,Japanese Grand Prix
+49,2024,5,Chinese Grand Prix,2024-04-21,07:00:00Z,Chinese Grand Prix
+50,2024,6,Miami Grand Prix,2024-05-05,20:00:00Z,Miami Grand Prix
+51,2024,7,Emilia Romagna Grand Prix,2024-05-19,13:00:00Z,Emilia Romagna Grand Prix
+52,2024,8,Monaco Grand Prix,2024-05-26,13:00:00Z,Monaco Grand Prix
+53,2024,9,Canadian Grand Prix,2024-06-09,18:00:00Z,Canadian Grand Prix
+54,2024,10,Spanish Grand Prix,2024-06-23,13:00:00Z,Spanish Grand Prix
+55,2024,11,Austrian Grand Prix,2024-06-30,13:00:00Z,Austrian Grand Prix
+56,2024,12,British Grand Prix,2024-07-07,14:00:00Z,British Grand Prix
+57,2024,13,Hungarian Grand Prix,2024-07-21,13:00:00Z,Hungarian Grand Prix
+58,2024,14,Belgian Grand Prix,2024-07-28,13:00:00Z,Belgian Grand Prix
+59,2024,15,Dutch Grand Prix,2024-08-25,13:00:00Z,Dutch Grand Prix
+60,2024,16,Italian Grand Prix,2024-09-01,13:00:00Z,Italian Grand Prix
+61,2024,17,Azerbaijan Grand Prix,2024-09-15,11:00:00Z,Azerbaijan Grand Prix
+62,2024,18,Singapore Grand Prix,2024-09-22,12:00:00Z,Singapore Grand Prix
+63,2024,19,United States Grand Prix,2024-10-20,19:00:00Z,United States Grand Prix
+64,2024,20,Mexico City Grand Prix,2024-10-27,20:00:00Z,Mexico City Grand Prix
+65,2024,21,São Paulo Grand Prix,2024-11-03,17:00:00Z,São Paulo Grand Prix
+66,2024,22,Las Vegas Grand Prix,2024-11-23,06:00:00Z,Las Vegas Grand Prix
+67,2024,23,Qatar Grand Prix,2024-12-01,17:00:00Z,Qatar Grand Prix
+68,2024,24,Abu Dhabi Grand Prix,2024-12-08,13:00:00Z,Abu Dhabi Grand Prix
