@@ -1,0 +1,23 @@
+circuitId,circuitRef,location,country,lat,lng,raceName,season,round,date,time
+bahrain,bahrain_international_circuit,Sakhir,Bahrain,26.0325,50.5106,Bahrain Grand Prix,2022,1,2022-03-20,15:00:00Z
+jeddah,jeddah_corniche_circuit,Jeddah,Saudi Arabia,21.6319,39.1044,Saudi Arabian Grand Prix,2022,2,2022-03-27,17:00:00Z
+albert_park,albert_park_grand_prix_circuit,Melbourne,Australia,-37.8497,144.968,Australian Grand Prix,2022,3,2022-04-10,05:00:00Z
+imola,autodromo_enzo_e_dino_ferrari,Imola,Italy,44.3439,11.7167,Emilia Romagna Grand Prix,2022,4,2022-04-24,13:00:00Z
+miami,miami_international_autodrome,Miami,USA,25.9581,-80.2389,Miami Grand Prix,2022,5,2022-05-08,19:30:00Z
+catalunya,circuit_de_barcelona-catalunya,Montmeló,Spain,41.57,2.26111,Spanish Grand Prix,2022,6,2022-05-22,13:00:00Z
+monaco,circuit_de_monaco,Monte-Carlo,Monaco,43.7347,7.42056,Monaco Grand Prix,2022,7,2022-05-29,13:00:00Z
+baku,baku_city_circuit,Baku,Azerbaijan,40.3725,49.8533,Azerbaijan Grand Prix,2022,8,2022-06-12,11:00:00Z
+villeneuve,circuit_gilles_villeneuve,Montreal,Canada,45.5,-73.5228,Canadian Grand Prix,2022,9,2022-06-19,18:00:00Z
+silverstone,silverstone_circuit,Silverstone,UK,52.0786,-1.01694,British Grand Prix,2022,10,2022-07-03,14:00:00Z
+red_bull_ring,red_bull_ring,Spielberg,Austria,47.2197,14.7647,Austrian Grand Prix,2022,11,2022-07-10,13:00:00Z
+ricard,circuit_paul_ricard,Le Castellet,France,43.2506,5.79167,French Grand Prix,2022,12,2022-07-24,13:00:00Z
+hungaroring,hungaroring,Budapest,Hungary,47.5789,19.2486,Hungarian Grand Prix,2022,13,2022-07-31,13:00:00Z
+spa,circuit_de_spa-francorchamps,Spa,Belgium,50.4372,5.97139,Belgian Grand Prix,2022,14,2022-08-28,13:00:00Z
+zandvoort,circuit_park_zandvoort,Zandvoort,Netherlands,52.3888,4.54092,Dutch Grand Prix,2022,15,2022-09-04,13:00:00Z
+monza,autodromo_nazionale_di_monza,Monza,Italy,45.6156,9.28111,Italian Grand Prix,2022,16,2022-09-11,13:00:00Z
+marina_bay,marina_bay_street_circuit,Marina Bay,Singapore,1.2914,103.864,Singapore Grand Prix,2022,17,2022-10-02,12:00:00Z
+suzuka,suzuka_circuit,Suzuka,Japan,34.8431,136.541,Japanese Grand Prix,2022,18,2022-10-09,05:00:00Z
+americas,circuit_of_the_americas,Austin,USA,30.1328,-97.6411,United States Grand Prix,2022,19,2022-10-23,19:00:00Z
+rodriguez,autódromo_hermanos_rodríguez,Mexico City,Mexico,19.4042,-99.0907,Mexico City Grand Prix,2022,20,2022-10-30,20:00:00Z
+interlagos,autódromo_josé_carlos_pace,São Paulo,Brazil,-23.7036,-46.6997,São Paulo Grand Prix,2022,21,2022-11-13,18:00:00Z
+yas_marina,yas_marina_circuit,Abu Dhabi,UAE,24.4672,54.6031,Abu Dhabi Grand Prix,2022,22,2022-11-20,13:00:00Z
