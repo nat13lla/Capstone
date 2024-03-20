@@ -1,0 +1,23 @@
+Driver Code,Driver Permanent Number,Constructor ID,Points,Position,Wins
+VER,33,red_bull,454,1,15
+LEC,16,ferrari,308,2,3
+PER,11,red_bull,305,3,2
+RUS,63,mercedes,275,4,1
+SAI,55,ferrari,246,5,1
+HAM,44,mercedes,240,6,0
+NOR,4,mclaren,122,7,0
+OCO,31,alpine,92,8,0
+ALO,14,alpine,81,9,0
+BOT,77,alfa,49,10,0
+RIC,3,mclaren,37,11,0
+VET,5,aston_martin,37,12,0
+MAG,20,haas,25,13,0
+GAS,10,alphatauri,23,14,0
+STR,18,aston_martin,18,15,0
+MSC,47,haas,12,16,0
+TSU,22,alphatauri,12,17,0
+ZHO,24,alfa,6,18,0
+ALB,23,williams,4,19,0
+LAT,6,williams,2,20,0
+DEV,21,williams,2,21,0
+HUL,27,aston_martin,0,22,0
