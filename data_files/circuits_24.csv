@@ -1,4 +1,4 @@
-circuitRef,location,country,lat,lng,raceName
+circuit,location,country,lat,lng,raceName
 bahrain_international_circuit,Sakhir,Bahrain,26.0325,50.5106,Bahrain Grand Prix
 jeddah_corniche_circuit,Jeddah,Saudi Arabia,21.6319,39.1044,Saudi Arabian Grand Prix
 albert_park_grand_prix_circuit,Melbourne,Australia,-37.8497,144.968,Australian Grand Prix
