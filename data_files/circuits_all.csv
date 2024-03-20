@@ -2,22 +2,24 @@ circuitRef,location,country,lat,lng,raceName
 bahrain_international_circuit,Sakhir,Bahrain,26.0325,50.5106,Bahrain Grand Prix
 jeddah_corniche_circuit,Jeddah,Saudi Arabia,21.6319,39.1044,Saudi Arabian Grand Prix
 albert_park_grand_prix_circuit,Melbourne,Australia,-37.8497,144.968,Australian Grand Prix
-baku_city_circuit,Baku,Azerbaijan,40.3725,49.8533,Azerbaijan Grand Prix
+autodromo_enzo_e_dino_ferrari,Imola,Italy,44.3439,11.7167,Emilia Romagna Grand Prix
 miami_international_autodrome,Miami,USA,25.9581,-80.2389,Miami Grand Prix
-circuit_de_monaco,Monte-Carlo,Monaco,43.7347,7.42056,Monaco Grand Prix
 circuit_de_barcelona-catalunya,Montmeló,Spain,41.57,2.26111,Spanish Grand Prix
+circuit_de_monaco,Monte-Carlo,Monaco,43.7347,7.42056,Monaco Grand Prix
+baku_city_circuit,Baku,Azerbaijan,40.3725,49.8533,Azerbaijan Grand Prix
 circuit_gilles_villeneuve,Montreal,Canada,45.5,-73.5228,Canadian Grand Prix
-red_bull_ring,Spielberg,Austria,47.2197,14.7647,Austrian Grand Prix
 silverstone_circuit,Silverstone,UK,52.0786,-1.01694,British Grand Prix
+red_bull_ring,Spielberg,Austria,47.2197,14.7647,Austrian Grand Prix
+circuit_paul_ricard,Le Castellet,France,43.2506,5.79167,French Grand Prix
 hungaroring,Budapest,Hungary,47.5789,19.2486,Hungarian Grand Prix
 circuit_de_spa-francorchamps,Spa,Belgium,50.4372,5.97139,Belgian Grand Prix
 circuit_park_zandvoort,Zandvoort,Netherlands,52.3888,4.54092,Dutch Grand Prix
 autodromo_nazionale_di_monza,Monza,Italy,45.6156,9.28111,Italian Grand Prix
 marina_bay_street_circuit,Marina Bay,Singapore,1.2914,103.864,Singapore Grand Prix
 suzuka_circuit,Suzuka,Japan,34.8431,136.541,Japanese Grand Prix
-losail_international_circuit,Al Daayen,Qatar,25.49,51.4542,Qatar Grand Prix
 circuit_of_the_americas,Austin,USA,30.1328,-97.6411,United States Grand Prix
 autódromo_hermanos_rodríguez,Mexico City,Mexico,19.4042,-99.0907,Mexico City Grand Prix
 autódromo_josé_carlos_pace,São Paulo,Brazil,-23.7036,-46.6997,São Paulo Grand Prix
-las_vegas_strip_street_circuit,Las Vegas,United States,36.1147,-115.173,Las Vegas Grand Prix
 yas_marina_circuit,Abu Dhabi,UAE,24.4672,54.6031,Abu Dhabi Grand Prix
+losail_international_circuit,Al Daayen,Qatar,25.49,51.4542,Qatar Grand Prix
+las_vegas_strip_street_circuit,Las Vegas,United States,36.1147,-115.173,Las Vegas Grand Prix
