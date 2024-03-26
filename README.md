@@ -18,3 +18,7 @@ The objective of this project is to create a model that can be used to predict w
 ## Data Collections : Ergast
 I gathered relevant F1 data from the Data repository API, which contains comprehensive historical data on Formula One. I combined several datasets, including [Race Results](http://ergast.com/mrd/methods/results/) , [Driver Information](http://ergast.com/mrd/methods/drivers/) , [Constructor Information](http://ergast.com/mrd/methods/constructors/) , [Circuit Information](http://ergast.com/mrd/methods/circuits/) and more.
 
+
+
+## EDA
+Exploratory data analysis allowed us to gain insights into circuit analysis, driver nationality, championship wins, and other key factors influencing driver and constructor performance. This analysis was crucial in understanding the sport and informing our modeling approach
