@@ -22,3 +22,7 @@ I gathered relevant F1 data from the Data repository API, which contains compreh
 
 ## EDA
 Exploratory data analysis allowed us to gain insights into circuit analysis, driver nationality, championship wins, and other key factors influencing driver and constructor performance. This analysis was crucial in understanding the sport and informing our modeling approach
+
+
+## Machine Learning Models:
+The main metric I plan on using is accuracy, aiming to achieve a consistent level across both the test data and the train data. The [example model]( https://f1-predictor.gjd.one/) claimed to have base initial accuracy of between 0.50 and 0.68, across all models so I am aiming for a final accuracy of around 0.75 or higher to create a usable and functional model using Logistic Regression.
