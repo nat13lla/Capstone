@@ -26,3 +26,12 @@ Exploratory data analysis allowed us to gain insights into circuit analysis, dri
 
 ## Machine Learning Models:
 The main metric I plan on using is accuracy, aiming to achieve a consistent level across both the test data and the train data. The [example model]( https://f1-predictor.gjd.one/) claimed to have base initial accuracy of between 0.50 and 0.68, across all models so I am aiming for a final accuracy of around 0.75 or higher to create a usable and functional model using Logistic Regression.
+
+
+## Developed by:
+- Natalie Coyle
+  - GitHub : https://github.com/nat13lla
+  - Linked in: https://www.linkedin.com/in/natalie-coyle-b4b437168/
+
+## Keywords:
+Formula One (F1), Motorsports, Points Prediction, Model Creation, Logistic Regression, Data Collection, Ergast API, Data Manipulation, Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering (FE), Train/Test Split, Machine Learning (ML), Interface Development, Predictive Modeling, Circuit Analysis, Driver Performance, Constructor Performance, Qualifying Results, Race Outcomes, User Input, Accuracy, Historical Data, Championship Wins, Data Repository, User Interface, Test Data, Training Data, Relevant Variables, Starting Position, Top 10 Finish, Points Prediction, Formula One Data, Comprehensive Data, Example Model Benchmark, Usable Model, Functional Model, Performance Metric, Data Analysis, Model Evaluation
