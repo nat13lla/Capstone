@@ -12,6 +12,8 @@
 
 * [User Interface](https://github.com/nat13lla/Capstone/blob/main/Userinterface/Interface.ipynb)
   * [Pickle file](https://github.com/nat13lla/Capstone/blob/main/Userinterface/logregmodel.sav)
+ 
+* [Powerpoint](https://docs.google.com/presentation/d/1rpjxV-5K5fs_4EbmJVb9gMyfRsf_EzAa3lMFuRMcMfc/edit?usp=sharing)
 
 
 ## Project Aim:
