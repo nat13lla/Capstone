@@ -36,7 +36,7 @@ The main metric I plan on using is accuracy, aiming to achieve a consistent leve
 ## Developed by:
 - Natalie Coyle
   - GitHub : https://github.com/nat13lla
-  - Linked in: https://www.linkedin.com/in/natalie-coyle-b4b437168/
+  - Linked in : https://www.linkedin.com/in/natalie-coyle-b4b437168/
 
 ## Keywords:
 Formula One (F1), Motorsports, Points Prediction, Model Creation, Logistic Regression, Data Collection, Ergast API, Data Manipulation, Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering (FE), Train/Test Split, Machine Learning (ML), Interface Development, Predictive Modeling, Circuit Analysis, Driver Performance, Constructor Performance, Qualifying Results, Race Outcomes, User Input, Accuracy, Historical Data, Championship Wins, Data Repository, User Interface, Test Data, Training Data, Relevant Variables, Starting Position, Top 10 Finish, Points Prediction, Formula One Data, Comprehensive Data, Example Model Benchmark, Usable Model, Functional Model, Performance Metric, Data Analysis, Model Evaluation
